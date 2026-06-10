@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** built to analyze and visualize healthcare data, featuring a professional dark theme and multi-dimensional insights.
 
-![Dashboard Preview](Screenshot%202026-06-11%20033514.png)
+![Dashboard Preview](DashboardView.png)
 
 ---
 
